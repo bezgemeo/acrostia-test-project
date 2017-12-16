@@ -1,5 +1,5 @@
 {
-  "name": "acrostia-test-project",
+  "name": "new_project",
   "version": "1.0.0",
   "description": "test task",
   "main": "index.js",
@@ -24,12 +24,10 @@
     "imagemin-pngquant": "^5.0.1",
     "pump": "^1.0.3"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bezgemeo/acrostia-test-project.git"
-  },
-  "bugs": {
-    "url": "https://github.com/bezgemeo/acrostia-test-project/issues"
-  },
-  "homepage": "https://github.com/bezgemeo/acrostia-test-project#readme"
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-clean-css": "^3.9.0"
+  }
 }

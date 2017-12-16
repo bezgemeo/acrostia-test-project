@@ -1,1 +1,0 @@
-# acrostia-test-project
